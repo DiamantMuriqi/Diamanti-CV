@@ -1,0 +1,17 @@
+body {
+    background-color: gainsboro;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.kontaktForm {
+    border: 2px solid black;
+    margin: auto;
+}
+.puna {
+    text-align: left;
+}
+.edukimi {
+    text-align: left;
+}
